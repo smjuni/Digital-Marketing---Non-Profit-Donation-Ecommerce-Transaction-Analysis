@@ -17,5 +17,4 @@ b.	Dataset for joiningV2.xlsx
 The second data set contains the digital marketing data to join back to the transaction, including the order ID.
 
 1.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.
-2.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends**update
-<img width="468" height="396" alt="image" src="https://github.com/user-attachments/assets/f79bf22f-2772-4f9c-af42-604f41198fa0" />
+2.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.
