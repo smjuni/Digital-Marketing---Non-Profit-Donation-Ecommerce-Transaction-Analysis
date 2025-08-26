@@ -18,3 +18,20 @@ The second data set contains the digital marketing data to join back to the tran
 
 1.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.
 2.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.
+
+###Creative Performance
+<img width="1269" height="758" alt="image" src="https://github.com/user-attachments/assets/c7f72d96-2dd4-47bb-b9aa-cf11ac434a32" />
+
+<img width="1274" height="753" alt="image" src="https://github.com/user-attachments/assets/b52944a7-8ac4-493f-bb40-3ec6eba1830f" />
+
+<img width="1275" height="756" alt="image" src="https://github.com/user-attachments/assets/424c1395-86bb-43f2-9fc0-8452b9f389d7" />
+
+
+###Campaign Performance
+<img width="1269" height="751" alt="image" src="https://github.com/user-attachments/assets/4cf875b3-01c7-439b-a542-290faaf17bc0" />
+
+
+
+
+
+
