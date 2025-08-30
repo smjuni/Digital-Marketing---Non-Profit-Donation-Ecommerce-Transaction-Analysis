@@ -18,15 +18,16 @@ The donation purchase data is currently captured for each web transaction, which
 
 
 ## Methodology: 
-1.	I created 2 data sets:
-a.	Dataset for CleaningV2.xlsx
-A web transaction data set containing the donations in each purchase (and corresponding amount) and the order ID associated with that purchase.
+1.	I created 2 data sets:\n
 
-b.	Dataset for joiningV2.xlsx
-The second data set contains the digital marketing data to join back to the transaction, including the order ID.
+   a.	Dataset for CleaningV2.xlsx\n
+   A web transaction data set containing the donations in each purchase (and corresponding amount) and the order ID associated with that purchase.
 
-1.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.
-2.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.
+   b.	Dataset for joiningV2.xlsx
+   The second data set contains the digital marketing data to join back to the transaction, including the order ID.
+
+2.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.
+3.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.
 
 ## Skills
 Microsoft Excel:
