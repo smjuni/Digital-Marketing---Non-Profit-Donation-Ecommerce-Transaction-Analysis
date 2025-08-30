@@ -1,4 +1,4 @@
-# Digital-Marketing---Non-Profit-Donation-Ecommerce-Transaction-Analysis
+# Digital-Marketing---Donation-Ecommerce-Transaction-Analysis
 A fusion of transactional and digital marketing data to identify and analyze marketing and purchasing trends. 
 
 (WIP)
@@ -37,25 +37,34 @@ Tableau:
 Supplies is the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666).
 The family spotlight, which is the shelter's most sought after donation group, drove the second highest donation revenue $83K, and 209 donations. The audiences that the family spotlight cause group most resonated with is cart-abandons, Pet owners and vet-students by donation count and cart-abandons, Pet-owners and Philathropists for revenue volume.
 
-The frequency of Family Spotlight donations is closely dispersed for Donation frequency, with Yearly subscriptions bringing in the most revenue of $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), One time donations of $28.1K
+The frequency of Family Spotlight donations is closely dispersed for Donation frequency, with Yearly subscriptions bringing in the most revenue of $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), and 73 donations.
 
+The average donation is highest for One-time donations. 
 
+<img width="2096" height="2038" alt="image" src="https://github.com/user-attachments/assets/406cd93c-d515-4f5b-b9bf-879187d25f4d" />
+
+### Family Spotlight
+  In general, the population responded to the family spotlight cause group best for LeadGen campaign types, with the highest average donation ($503). Retargeting, LeadGen and Engagement Campaign Types performed best for donation revenue. The campaign that resonated least with the family spotlight cause group was loyalty campaign type, with only 7% of the total donations and lowest donation revenue ($5.8K) for the April to July time period. 
+
+ Recommendation:
+ Revisit loyalty campaign parameters, perhaps the messaging or targeting can be adjusted to appeal more to Family spotlight donors.
+ For upcoming campaigns, boost ad spend into Retargeting, LeadGen and Engagement campaign types, building lookalike audiences from these campaigns. Test linking Supply cause groups with family spotlight cause groups to measure crossover.
 
 ## Next Steps
 
 
 
-### Creative Performance
+Creative Performance
 <img width="1269" height="758" alt="image" src="https://github.com/user-attachments/assets/c7f72d96-2dd4-47bb-b9aa-cf11ac434a32" />
 
-### Donation Performance
+Donation Performance
 <img width="1274" height="753" alt="image" src="https://github.com/user-attachments/assets/b52944a7-8ac4-493f-bb40-3ec6eba1830f" />
 
-### Trend Analysis
+Trend Analysis
 <img width="1275" height="756" alt="image" src="https://github.com/user-attachments/assets/424c1395-86bb-43f2-9fc0-8452b9f389d7" />
 
 
-### Campaign Performance
+Campaign Performance
 <img width="1269" height="751" alt="image" src="https://github.com/user-attachments/assets/4cf875b3-01c7-439b-a542-290faaf17bc0" />
 
 
