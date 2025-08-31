@@ -8,51 +8,62 @@ A fusion of transactional and digital marketing data to identify and analyze mar
 
 After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations.
 
- Recommendations:
-
+1. Supplies donations drive the most revenue, particularly with Loyalty, Conversion campaign types. This indicates that many donors in this category have interacted with the shelter previously. I would recommend to keep Loyalty campaigns in the mix for this cause, perhaps expanding the creatives in these campaigns.
+2. Family Spotlight donations have not performed as well with Loyalty campaign types and considering the focus on this cause group, I would recommend testing new creatives/messaging within the loyalty campaign to appeal to the family spotlight target groups. Alternatively, spend on this campaign can be diverted to Retargeting, Engagement campaigns. Because the highest average donations come from people who have visited the shelter within the last 3 months, I would recommend a campaign geared towards increasing shelter visits.
+3. Overall, cart-abandoners are the biggest donors, showing strong engagement with the current cart-abandon retargeting methods.
  
-## Business Problem: 
+## Business Problem
  How can we discern which donation types and campaigns have performed best with certain audiences and causes? The shelter is anticipating an influx of litters/families of animals and will need to focuse their marketing efforts to drive donations to support them.
 
 The donation purchase data is currently captured for each web transaction, which can include 1 or multiple types of donations/causes within each transaction.  The campaign performance data table can be linked to the donation purchase data using the transaction (Order) ID. To measure the performance of each donation type (Source), frequency (eg. Monthly, once etc) and targeted cause (eg. supplies or circumstance) I split out the causes and corresponding types, amounts and frequencies.
 
 
-## Methodology: 
-1.	I created 2 data sets: \n
+## Methodology
+1.	I created 2 data sets: <br>
 
-\t a.	Dataset for CleaningV2.xlsx \n
-\t A web transaction data set containing the donations in each purchase (and corresponding amount) and the order ID associated with that purchase.
-
-\t b.	Dataset for joiningV2.xlsx
-\t The second data set contains the digital marketing data to join back to the transaction, including the order ID.
-
-2.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.
-3.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.
+a.	Dataset for CleaningV2.xlsx <br>
+A web transaction data set containing the donations in each purchase (and corresponding amount) and the order ID associated with that purchase. <br>
+<br>
+b.	Dataset for joiningV2.xlsx <br>
+The second data set contains the digital marketing data to join back to the transaction, including the order ID. <br>
+<br>
+2.	A python algorithm to ensure that the transactions were split into their respective categories. A second algorithm to join the data back to the campaign data.<br>
+<br>
+3.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.<br>
 
 ## Skills
-Microsoft Excel:
-Python:
-Tableau:
+Microsoft Excel: functions, 'random' generators.
+Python: Pandas, loops, functions
+Tableau: data visualization, parameters, calculated fields 
 
-## Results and Recommendations:
+## Results and Recommendations
 Supplies is the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666).
 The family spotlight, which is the shelter's most sought after donation group, drove the second highest donation revenue $83K, and 209 donations. The audiences that the family spotlight cause group most resonated with is cart-abandons, Pet owners and vet-students by donation count and cart-abandons, Pet-owners and Philathropists for revenue volume.
 
-The frequency of Family Spotlight donations is closely dispersed for Donation frequency, with Yearly subscriptions bringing in the most revenue of $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), and 73 donations.
+The donation frequency of Family Spotlight donations is closely dispersed, with yearly subscriptions bringing in the most revenue, $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), and 73 donations.
 
-The average donation is highest for One-time donations. 
+The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts.
 
-<img width="2096" height="2038" alt="image" src="https://github.com/user-attachments/assets/406cd93c-d515-4f5b-b9bf-879187d25f4d" />
+#### Recommendations:
+Supplies are very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic which can complement the drive for family spotlight and emergency messaging.
+
+
+<img width="1000" height="1000" alt="Donation Tableau Dashboard Screenshot" src="https://github.com/user-attachments/assets/406cd93c-d515-4f5b-b9bf-879187d25f4d" />
 
 ### Family Spotlight
   In general, the population responded to the family spotlight cause group best for LeadGen campaign types, with the highest average donation ($503). Retargeting, LeadGen and Engagement Campaign Types performed best for donation revenue. The campaign that resonated least with the family spotlight cause group was loyalty campaign type, with only 7% of the total donations and lowest donation revenue ($5.8K) for the April to July time period. 
 
- Recommendation:
- Revisit loyalty campaign parameters, perhaps the messaging or targeting can be adjusted to appeal more to Family spotlight donors.
- For upcoming campaigns, boost ad spend into Retargeting, LeadGen and Engagement campaign types, building lookalike audiences from these campaigns. Test linking Supply cause groups with family spotlight cause groups to measure crossover.
+The audiences who have the highest average donations to family spotlight causes are people who have visited the Shelter within the last 3 months and the philanthropist audience comprised of regular, high-income donors. 
+
+#### Recommendations:
+Revisit loyalty campaign parameters, perhaps the messaging or targeting can be adjusted to appeal more to Family spotlight donors.
+For upcoming campaigns, boost ad spend into Retargeting, LeadGen and Engagement campaign types, building lookalike audiences from these campaigns. Test linking Supply cause groups with family spotlight cause groups to measure crossover.
+To increase the Shelter-visit-3mths audience, I would recommend running a concurrent campaign to entice shelter visits.
 
 ## Next Steps
-
+1. Meet with marketing strategy team to present results of the study.
+2. Train strategy teams on how to use the dashboard to self-serve & make any requested tweaks.
+3. Conduct A/B testing within different campaigns & audiences (high performing and low) for creative, campaign and audience performance.
 
 
 Creative Performance
