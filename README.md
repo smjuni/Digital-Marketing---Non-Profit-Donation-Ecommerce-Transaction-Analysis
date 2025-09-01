@@ -4,9 +4,9 @@ A fusion of transactional and digital marketing data to identify and analyze mar
 (WIP)
 
  ## Executive Summary
- A animal care charity is planning their next marketing campaign and needs to know what campaign types and creatives perform the best overall and especially with Family Spotlight cause to detemine where the advertising spend should be focused. Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
+ A animal care charity is planning their next marketing campaign and needs to know what campaign types and creatives perform the best overall to detemine where the advertising spend should be focused. Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
-After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations.
+After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
 
 1. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that many donors in this category have interacted with the shelter or their marketing efforts previously. I would recommend to keep Loyalty campaign types in the mix for this cause group, perhaps expanding the creatives in these campaigns.
 2.  Overall, cart-abandoners are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods.
@@ -38,15 +38,12 @@ Tableau: data visualization, parameters, calculated fields
 
 ## Results and Recommendations
 
-### Overall:
 "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666).
-The family spotlight, which is the shelter's most sought after donation group, drove the second highest donation revenue $83K, and 209 donations. The audiences that the family spotlight cause group most resonated with is cart-abandons, Pet owners and vet-students by donation count and cart-abandons, Pet-owners and Philathropists for revenue volume.
-
-The donation frequency of Family Spotlight donations is closely dispersed, with yearly subscriptions bringing in the most revenue, $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), and 73 donations.
+The family spotlight, which is the shelter's most sought after donation group, drove the second highest donation revenue $83K, and 209 donations. 
 
 The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts.
 
-#### Recommendations:
+### Recommendations:
 Supplies are very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic which can complement the drive for family spotlight and emergency messaging.
 
 
@@ -83,4 +80,5 @@ Campaign Performance
 
 
 ## Limitations:
-Because this is a home made data set 
+Because this is a home made data set there is some 'randomness' to the field entry. Eg. TOF Conversion campaign etc.
+The date range also only includes April - July 2025
