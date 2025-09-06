@@ -1,8 +1,7 @@
 # Digital-Marketing---Donation-Ecommerce-Transaction-Analysis
 A fusion of transactional and digital marketing data to identify and analyze marketing and purchasing trends. 
 
-
-<img width="1275" height="756" alt="Timebased Trend - Key metrics Dashboard" src="https://github.com/user-attachments/assets/424c1395-86bb-43f2-9fc0-8452b9f389d7" />
+<img width="1000" height="1000" alt="Donation Trend Charts" src="https://github.com/user-attachments/assets/6981acfb-dcfa-4d22-96a2-1cb4e15d10c9" />
 
  ## Executive Summary
  A animal care charity is planning their next marketing campaign and needs to know what campaign types and creatives perform the best overall to detemine where the advertising spend should be focused. Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
