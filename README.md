@@ -1,6 +1,8 @@
 # Digital-Marketing---Donation-Ecommerce-Transaction-Analysis
 A fusion of transactional and digital marketing data to identify and analyze marketing and purchasing trends. 
 
+ [Tableau Dashboard Link](https://public.tableau.com/app/profile/stephanie.m.juniper/viz/DigitalMarketingTransactionAnalysis/CreativePerformanceDashboard)
+
 <img width="1000" height="500" alt="Donation Trend Charts" src="https://github.com/user-attachments/assets/6981acfb-dcfa-4d22-96a2-1cb4e15d10c9" />
 
  ## Executive Summary
