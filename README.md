@@ -1,5 +1,5 @@
 # Digital-Marketing---Donation-Ecommerce-Transaction-Analysis
-A fusion of transactional and digital marketing data to identify and analyze marketing and purchasing trends. 
+A fusion of transactional and digital marketing data used to identify and analyze marketing and purchasing trends to inform future marketing decisions. 
 
  [Tableau Dashboard Link](https://public.tableau.com/app/profile/stephanie.m.juniper/viz/DigitalMarketingTransactionAnalysis/CreativePerformanceDashboard)
 
