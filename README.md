@@ -6,13 +6,18 @@ A fusion of transactional and digital marketing data to identify and analyze mar
 <img width="1000" height="500" alt="Donation Trend Charts" src="https://github.com/user-attachments/assets/6981acfb-dcfa-4d22-96a2-1cb4e15d10c9" />
 
  ## Executive Summary
- A animal care charity is planning their next marketing campaign and needs to know what campaign types and creatives perform the best overall to detemine where the advertising spend should be focused. Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
+ A animal care charity is planning their next marketing campaign cycle and needs to know what campaign types and creatives perform the best overall to detemine where the advertising spend should be focused. 
+
+Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
 After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
 
-1. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that many donors in this category have interacted with the shelter or their marketing efforts previously. I would recommend to keep Loyalty campaign types in the mix for this cause group, perhaps expanding the creatives in these campaigns.
-2.  Overall, cart-abandoners are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods.
-3.  Display creatives are outperforming video creatives accross the board overall, with 475 conversions and $184k in revenue (vs $77K and 191 donations for video). I would recommend re-evaluating the video creatives and examining where they were served (eg. on non-clickable sites), to see if this difference is expected and if not, are the videos fatigued, not functioning or just not resonating as expected?
+1. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
+2.  Overall, the cart-abandoners audience are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods. I recommend reusing and monitoring campaigns targeting this segment in the next cycle to ensure repeat success.
+3.  Display creatives are outperforming video creatives across the board overall, with 475 conversions and $184k in revenue (vs $77K and 191 donations for video). For the next campaign cycle, I would recommend re-evaluating the video creatives from the previous cycle and examining where they were served (eg. on non-clickable sites), to see if this difference is expected and if not, are the videos fatigued, not functioning or just not resonating as expected?
+4.  One-time donations bring in a higher donation average than recurring. For the next campaign cycle, consider more one-time donation driving campaigns to boost instant funds (eg. in a emergency or family spotlight campaign drive) where revenue is prioritized over acquision.
+5. As "Kitty" and "Smile" creatives were the most successful donation drivers, these creatives should be reused (again) in the new campaign cycle. However, they should be monitored for creative fatigue should their revenue start to flag. It would be worthwhile to study these creatives (differences in imagery, text) for keys to their success.
+6. As mid-funnel Campaigns performed well last cycle, it would be advised to allocate more spend to these campaigns next cycle and monitor the results. 
 
 <img width="1000" height="1000" alt="Donation Performance Dashboard" src="https://github.com/user-attachments/assets/11667f98-51d8-47f5-8ca1-8fb69eb11a0e" />
 
@@ -24,6 +29,7 @@ The donation purchase data is currently captured for each web transaction, which
 
 
 ## Methodology
+
 1.	I created 2 data sets: <br>
 
 a.	Dataset for CleaningV2.xlsx <br>
@@ -43,7 +49,7 @@ Tableau: data visualization, data exploration, custom parameters, calculated fie
 
 ## Results and Recommendations
 
-1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). Supplies are very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
+1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
 
 2. The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts. Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
 
