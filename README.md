@@ -24,7 +24,7 @@ Depending on the shelter's needs at the time, One-time donation marketing campai
 
 Overall for everyday shelter needs/always on campaigns, focus the landing pages on "Supply" causes. Continue to use strong "cart-abandoners" retargeting. When there is a greater need for additional donation dollars, such as a family spotlight (eg. Rosie's Litter) creative messaging similar to Kitty and Smile drove the greatest response.
 
-<img width="1096" height="1000" alt="image" src="https://github.com/user-attachments/assets/7024785d-9a4b-4f97-ad7f-8145c20ef896" />
+<img width="822" height="750" alt="image" src="https://github.com/user-attachments/assets/7024785d-9a4b-4f97-ad7f-8145c20ef896" />
 
 
 
@@ -68,23 +68,29 @@ Being able to split Transactions down into individual donations we are able to s
 
 <img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
 
+
+
 2. We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
 
 <img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/6d193f30-753e-4297-b9c8-4bc1b6c73ebb" />
 
 
+
  3. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
+
  
-<img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/7359788b-085c-4be8-ae01-40bb3ac04ef0" />
+<img width="864" height="540" alt="image" src="https://github.com/user-attachments/assets/7359788b-085c-4be8-ae01-40bb3ac04ef0" />
 
 
 4. Overall, the cart-abandoners audience are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods. I recommend reusing and monitoring campaigns targeting this segment in the next cycle to ensure repeat success.
 
-<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/dd29759e-2ec9-4de4-9bc4-480b2d7141f9" />
+
+<img width="1009" height="752" alt="image" src="https://github.com/user-attachments/assets/dd29759e-2ec9-4de4-9bc4-480b2d7141f9" />
 
 5. As "Kitty" and "Smile" creatives were the most successful donation drivers, these creatives should be reused (again) in the new campaign cycle. However, they should be monitored for creative fatigue should their revenue start to flag. It would be worthwhile to study these creatives (differences in imagery, text) for keys to their success.
-6. 
-<img width="686" height="758" alt="image" src="https://github.com/user-attachments/assets/ac52a1f8-3640-4abd-a151-dc3ce19c7c5d" />
+
+
+<img width="515" height="567" alt="image" src="https://github.com/user-attachments/assets/ac52a1f8-3640-4abd-a151-dc3ce19c7c5d" />
 
 
 ## Next Steps
