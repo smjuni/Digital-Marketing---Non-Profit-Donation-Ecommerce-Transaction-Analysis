@@ -24,7 +24,8 @@ Depending on the shelter's needs at the time, One-time donation marketing campai
 
 Overall for everyday shelter needs/always on campaigns, focus the landing pages on "Supply" causes. Continue to use strong "cart-abandoners" retargeting. When there is a greater need for additional donation dollars, such as a family spotlight (eg. Rosie's Litter) creative messaging similar to Kitty and Smile drove the greatest response.
 
-<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fc06cd5-a159-416c-876e-3ee2ed176066" />
+<img width="1096" height="1000" alt="image" src="https://github.com/user-attachments/assets/7024785d-9a4b-4f97-ad7f-8145c20ef896" />
+
 
 
 ## Business Problem
