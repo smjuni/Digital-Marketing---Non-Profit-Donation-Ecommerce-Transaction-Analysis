@@ -17,7 +17,10 @@ After identifying the most purchased causes and the campaigns that drove them, I
 
 1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
 
-2. The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts. Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
+2. The average donation is highest for yearly donations, demonstrating a great relationship with their donors. One time donors provide the greatest Donation Value ($), demonstrating that donors are more generous with non-recurring gifts.
+Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
+
+3. Cart-Abandon Audiences brought in $33,655 revenue and 83 donations indicating strong messaging performance to those 'stuck' in the conversion process.
 
 
 ## Business Problem
@@ -56,25 +59,22 @@ Tableau: data visualization, data exploration, custom parameters, calculated fie
 ## Results and Recommendations
 Being able to split Transactions down into individual donations we are able to see the top performing product and campaign data.
 
-Based on the split donation data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Activists campaign was most effective by value for driving supply donations (Bowls, Cleaning, Grooming, Food and Toys).
+1. Based on the split donation data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Activists campaign was most effective by value for driving supply donations (Bowls, Cleaning, Grooming, Food and Toys).
 
-<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
+<img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
 
-We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
+2. We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
 
 <img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/6d193f30-753e-4297-b9c8-4bc1b6c73ebb" />
 
 
-TOP 5 Campaigns & Causes By Donation Value
-<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/85c853fd-526d-444b-ab5c-8c8311bb070b" />
-
-
-TOP 5 Campaigns & Causes By Total Donations
- <img width="838" height="994" alt="image" src="https://github.com/user-attachments/assets/5d1dfa2c-311d-4e83-9149-528232b7491d" />
-
- "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
+ 3. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
  
- <img width="468" height="144" alt="image" src="https://github.com/user-attachments/assets/e84c1d67-1145-462a-b5cb-3236a650701f" />
+<img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/7359788b-085c-4be8-ae01-40bb3ac04ef0" />
+
+
+4. Overall, the cart-abandoners audience are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods. I recommend reusing and monitoring campaigns targeting this segment in the next cycle to ensure repeat success.
+
 
 ## Next Steps
 1. Meet with marketing strategy team to present results of the study.
@@ -84,5 +84,5 @@ TOP 5 Campaigns & Causes By Total Donations
 
 
 ## Limitations:
-Because this is a 'home-made' data set there is some randomness to the field values (Eg. TOF Conversion campaign etc).
+Because this is a 'home-made' data set there is some randomness to the field values (Eg. TOF Conversion campaign etc). The data is also split more normally than 'real life' would suggest.
 The date range includes April - July 2025.
