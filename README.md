@@ -10,27 +10,40 @@ A fusion of transactional and digital marketing data used to identify and analyz
 
 Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
-After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
-
-1. "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
-2.  Overall, the cart-abandoners audience are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods. I recommend reusing and monitoring campaigns targeting this segment in the next cycle to ensure repeat success.
-3.  Display creatives are outperforming video creatives across the board overall, with 475 conversions and $184k in revenue (vs $77K and 191 donations for video). For the next campaign cycle, I would recommend re-evaluating the video creatives from the previous cycle and examining where they were served (eg. on non-clickable sites), to see if this difference is expected and if not, are the videos fatigued, not functioning or just not resonating as expected?
-4.  One-time donations bring in a higher donation average than recurring. For the next campaign cycle, consider more one-time donation driving campaigns to boost instant funds (eg. in a emergency or family spotlight campaign drive) where revenue is prioritized over acquision.
-5. As "Kitty" and "Smile" creatives were the most successful donation drivers, these creatives should be reused (again) in the new campaign cycle. However, they should be monitored for creative fatigue should their revenue start to flag. It would be worthwhile to study these creatives (differences in imagery, text) for keys to their success.
-6. As mid-funnel Campaigns performed well last cycle, it would be advised to allocate more spend to these campaigns next cycle and monitor the results. 
 
 <img width="1000" height="1000" alt="Donation Performance Dashboard" src="https://github.com/user-attachments/assets/11667f98-51d8-47f5-8ca1-8fb69eb11a0e" />
+TOP 5 Campaigns & Causes By Total Donations<img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/6f198097-5fb1-4cf7-b5cb-7bbf33fa3ea4" />
 
-   
+
+After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
+
+ TOP 5 Campaigns & Causes By Donation Value
+<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/85c853fd-526d-444b-ab5c-8c8311bb070b" />
+
+
+TOP 5 Campaigns & Causes By Total Donations
+ <img width="838" height="994" alt="image" src="https://github.com/user-attachments/assets/5d1dfa2c-311d-4e83-9149-528232b7491d" />
+
+
 ## Business Problem
- How can we discern which donation types and campaigns have performed best with certain audiences and causes? 
+A animal care charity is planning their next marketing campaign and needs to know what types of donations perform the best and where advertising spend should be focused. How can we discern which donation types and campaigns have performed with certain audiences and causes?
 
-The donation purchase data is currently captured for each web transaction, which can include 1 or multiple types of donations/causes within each transaction.  The campaign performance data table can be linked to the donation purchase data using the transaction (Order) ID. To measure the performance of each donation type (Source), frequency (eg. Monthly, once etc) and targeted cause (eg. supplies or circumstance) I split out the causes and corresponding types, amounts and frequencies.
+The donation data is currently captured at the transaction level, which can include 1 or multiple donations within each transaction.  To measure the performance of each donation type, frequency (eg. Monthly, once etc) and targeted cause (eg. supplies or circumstance) I split out the causes and corresponding types, amounts and frequencies.
+
+<img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/47471b56-5144-4192-a848-16607dc86823" />
+
+Before:
+
+ <img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/7f24e6d6-4445-41fb-b76b-dbc767dab861" />
+
+After:
+ 
+<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/08a35284-4afc-4fdc-a0d1-c9ae8f8e1622" />
 
 
 ## Methodology
 
-1.	I created 2 data sets: <br>
+1.	I created 2 data sets with the help of ChatGPT: <br>
 
 a.	Dataset for CleaningV2.xlsx <br>
 A web transaction data set containing the donations in each purchase (and corresponding amount) and the order ID associated with that purchase. <br>
@@ -43,41 +56,26 @@ The second data set contains the digital marketing data to join back to the tran
 3.	A Tableau dashboard to illustrate to the stakeholders the top performers and trends.<br>
 
 ## Skills
-Microsoft Excel: functions, 'random' generators.<br>
+Microsoft Excel: functions, 'random' generators, data exploration.<br>
 Python: Pandas, loops, functions <br>
 Tableau: data visualization, data exploration, custom parameters, calculated fields <br>
 
 ## Results and Recommendations
+Being able to split Transactions down into individual donations we are able to see the top performing product and campaign data.
 
-1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
+Based on the split data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Activists campaign was most effective by value for driving supply donations (Bowls, Cleaning, Grooming, Food and Toys).
 
-2. The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts. Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
+<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
 
-3. Cart-Abandon Audiences brought in $33,655 revenue and 83 donations indicating strong messaging performance to those 'stuck' in the conversion process.
+We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
 
-4. Surprisingly, the recurring creatives outperformed the new in market creatives, and mid-funnel (MOF) campaigns were the top revenue drivers, this could mean that customers are interacting best with the consideration campaigns. "Kitty" and "Smile" creatives were most successful in donation quantity and revenue. As recurring creatives seem to resonate better with the donors, reinstating the existing "Kitty" and "Smile" creatives could have benefits. Consider A/B testing some new images/messaging for "Litter" and "Puppy" to increase engagement.
-<img width="1269" height="758" alt="Creative Performance Tableau Dashboard" src="https://github.com/user-attachments/assets/c7f72d96-2dd4-47bb-b9aa-cf11ac434a32" />
+<img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/6d193f30-753e-4297-b9c8-4bc1b6c73ebb" />
 
-5.The Display channel outperformed Social and Search in both revenue and donation quantity. This is unusual in marketing campaigns and digging deeper, I found that the Retargeting Display ads are bringing in the most donation quantity and revenue for cart-abandons, Shelter visits in the last 3M and charitables audience groups, together bringing in about 35K$ of donation revenue.
-
-<img width="1269" height="751" alt="Campaign Performance Dashboard" src="https://github.com/user-attachments/assets/4cf875b3-01c7-439b-a542-290faaf17bc0" />
-
-The most successful campaign in terms of donations was the Q2 Always-on, mid-funnel display campaign directed to the cart abandon audience with 20 donations. 
-<img width="854" height="116" alt="Top Campaign by Donations Quantity" src="https://github.com/user-attachments/assets/bedf7d9f-34fc-4641-89c7-6ff27cb93967" />
-
-The biggest revenue campaign was a display traffic, top funnel (TOF) campaign during Q3, bringing in $7725.
-<img width="722" height="160" alt="image" src="https://github.com/user-attachments/assets/85e2fd70-d777-4220-8228-1e039a9dd68b" />
 
 ## Next Steps
 1. Meet with marketing strategy team to present results of the study.
 2. Train strategy teams on how to use the dashboard to self-serve & make any requested UI tweaks.
 3. Conduct A/B testing within different campaigns & audiences (high performing and low) for creative, campaign and audience performance.
-
-
-
-
-
-
 
 
 
