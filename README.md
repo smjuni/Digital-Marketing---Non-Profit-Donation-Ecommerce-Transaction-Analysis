@@ -5,7 +5,7 @@ A fusion of transactional and digital marketing data used to identify and analyz
 
 
  ## Executive Summary
-A animal care charity is planning their next marketing campaign and needs to know what types of donations perform the best and where advertising spend should be focused. How can we discern which donation types and campaigns have performed with certain audiences and causes?
+A animal care charity is planning their next marketing campaign and needs to know what types of cause donations perform the best and where advertising spend should be focused. How can we discern which donation types and campaigns have performed with certain audiences and causes?
 
 Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
@@ -15,12 +15,16 @@ Using Python and Tableau I extracted the data, deconstructed it into separate ca
 
 After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
 
-1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
+1. "Supplies" donations (Grooming, Cleaning, Food, Bedding) are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
 
-2. The average donation is highest for yearly donations, demonstrating a great relationship with their donors. One time donors provide the greatest Donation Value ($), demonstrating that donors are more generous with non-recurring gifts.
+2. The average donation is highest for yearly donations, demonstrating a strong relationship with existing donors. One time donations provide the greatest Donation Value ($), demonstrating that donors are more generous with non-recurring gifts.
 Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
 
 3. Cart-Abandon Audiences brought in $33,655 revenue and 83 donations indicating strong messaging performance to those 'stuck' in the conversion process.
+
+Overall for everyday shelter needs/always on campaigns, focus the landing pages on "Supply" causes. Continue to use strong "cart-abandoners" retargeting. When there is a greater need for additional donation dollars, such as a family spotlight (eg. Rosie's Litter) creative messaging similar to Kitty and Smile drove the greatest response.
+
+<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fc06cd5-a159-416c-876e-3ee2ed176066" />
 
 
 ## Business Problem
@@ -75,6 +79,11 @@ Being able to split Transactions down into individual donations we are able to s
 
 4. Overall, the cart-abandoners audience are the biggest donors both in revenue and quantity of donations, showing strong engagement with the current cart-abandon retargeting methods. I recommend reusing and monitoring campaigns targeting this segment in the next cycle to ensure repeat success.
 
+<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/dd29759e-2ec9-4de4-9bc4-480b2d7141f9" />
+
+5. As "Kitty" and "Smile" creatives were the most successful donation drivers, these creatives should be reused (again) in the new campaign cycle. However, they should be monitored for creative fatigue should their revenue start to flag. It would be worthwhile to study these creatives (differences in imagery, text) for keys to their success.
+
+<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fc06cd5-a159-416c-876e-3ee2ed176066" />
 
 ## Next Steps
 1. Meet with marketing strategy team to present results of the study.
