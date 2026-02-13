@@ -3,30 +3,26 @@ A fusion of transactional and digital marketing data used to identify and analyz
 
  [Tableau Dashboard Link](https://public.tableau.com/app/profile/stephanie.m.juniper/viz/DigitalMarketingTransactionAnalysis/CreativePerformanceDashboard)
 
-<img width="1000" height="500" alt="Donation Trend Charts" src="https://github.com/user-attachments/assets/6981acfb-dcfa-4d22-96a2-1cb4e15d10c9" />
 
  ## Executive Summary
- A animal care charity is planning their next marketing campaign cycle and needs to know what campaign types and creatives perform the best overall to detemine where the advertising spend should be focused. 
+A animal care charity is planning their next marketing campaign and needs to know what types of donations perform the best and where advertising spend should be focused. How can we discern which donation types and campaigns have performed with certain audiences and causes?
 
 Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
 
-<img width="1000" height="1000" alt="Donation Performance Dashboard" src="https://github.com/user-attachments/assets/11667f98-51d8-47f5-8ca1-8fb69eb11a0e" />
-TOP 5 Campaigns & Causes By Total Donations<img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/6f198097-5fb1-4cf7-b5cb-7bbf33fa3ea4" />
+<img width="1272" height="757" alt="image" src="https://github.com/user-attachments/assets/d8c1223b-7b44-4848-b0ee-7815d02fa2c3" />
 
 
 After identifying the most purchased causes and the campaigns that drove them, I have the following recommendations:
 
- TOP 5 Campaigns & Causes By Donation Value
-<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/85c853fd-526d-444b-ab5c-8c8311bb070b" />
+1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
 
-
-TOP 5 Campaigns & Causes By Total Donations
- <img width="838" height="994" alt="image" src="https://github.com/user-attachments/assets/5d1dfa2c-311d-4e83-9149-528232b7491d" />
+2. The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts. Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
+<img width="468" height="219" alt="image" src="https://github.com/user-attachments/assets/3a178b7d-dbeb-438a-8fcf-6b105d106c66" />
 
 
 ## Business Problem
-A animal care charity is planning their next marketing campaign and needs to know what types of donations perform the best and where advertising spend should be focused. How can we discern which donation types and campaigns have performed with certain audiences and causes?
+
 
 The donation data is currently captured at the transaction level, which can include 1 or multiple donations within each transaction.  To measure the performance of each donation type, frequency (eg. Monthly, once etc) and targeted cause (eg. supplies or circumstance) I split out the causes and corresponding types, amounts and frequencies.
 
@@ -67,10 +63,23 @@ Based on the split data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Act
 
 <img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
 
+ <img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/15dc1d91-e725-490e-a79c-422b4ec600cc" />
+
 We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
 
 <img width="568" height="616" alt="image" src="https://github.com/user-attachments/assets/6d193f30-753e-4297-b9c8-4bc1b6c73ebb" />
 
+
+TOP 5 Campaigns & Causes By Donation Value
+<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/85c853fd-526d-444b-ab5c-8c8311bb070b" />
+
+
+TOP 5 Campaigns & Causes By Total Donations
+ <img width="838" height="994" alt="image" src="https://github.com/user-attachments/assets/5d1dfa2c-311d-4e83-9149-528232b7491d" />
+
+ "Supplies" donations gained the most revenue, particularly with Loyalty and Conversion campaign types. This indicates that "Supplies" appeal to many donors in these campaign groups and also that these donors have interacted with the shelter or their marketing efforts previously. I would recommend keeping Loyalty campaign types for the next campaign cycle, and perhaps experiment with expanding the creative range. Conversion campaigns are always in-market, but in order to drive more "Supplies" revenue (or different cause revenue), I would recommend testing different landing pages/Call to Actions to see if the marketing influences the donors, or if it is a characteristic of the targeted audience.
+ 
+ <img width="468" height="144" alt="image" src="https://github.com/user-attachments/assets/e84c1d67-1145-462a-b5cb-3236a650701f" />
 
 ## Next Steps
 1. Meet with marketing strategy team to present results of the study.
