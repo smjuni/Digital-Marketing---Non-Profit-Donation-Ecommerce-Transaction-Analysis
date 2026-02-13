@@ -18,7 +18,6 @@ After identifying the most purchased causes and the campaigns that drove them, I
 1. "Supplies" donations are the biggest contributor to donation revenue ($135.6K) and the most frequent donation group (351/666). "Supplies" cause group is very important to the shelter to generate donation revenue. I would recommend keeping this cause as an 'always' on marketing tactic as a complement to specific drive campaigns (eg. Family Spotlight, Emergency messaging).
 
 2. The average donation is highest for one-time donations, demonstrating that donors are more generous with non-recurring gifts. Depending on the shelter's needs at the time, One-time donation marketing campaigns can be utilized to boost instant revenue, for emergencies or an influx of animals in care.
-<img width="468" height="219" alt="image" src="https://github.com/user-attachments/assets/3a178b7d-dbeb-438a-8fcf-6b105d106c66" />
 
 
 ## Business Problem
