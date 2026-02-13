@@ -35,11 +35,11 @@ The donation data is currently captured at the transaction level, which can incl
 
 Before:
 
- <img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/7f24e6d6-4445-41fb-b76b-dbc767dab861" />
+ <img width="936" height="52" alt="image" src="https://github.com/user-attachments/assets/7f24e6d6-4445-41fb-b76b-dbc767dab861" />
 
 After:
  
-<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/08a35284-4afc-4fdc-a0d1-c9ae8f8e1622" />
+<img width="936" height="138" alt="image" src="https://github.com/user-attachments/assets/08a35284-4afc-4fdc-a0d1-c9ae8f8e1622" />
 
 
 ## Methodology
@@ -83,8 +83,9 @@ Being able to split Transactions down into individual donations we are able to s
 <img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/dd29759e-2ec9-4de4-9bc4-480b2d7141f9" />
 
 5. As "Kitty" and "Smile" creatives were the most successful donation drivers, these creatives should be reused (again) in the new campaign cycle. However, they should be monitored for creative fatigue should their revenue start to flag. It would be worthwhile to study these creatives (differences in imagery, text) for keys to their success.
+6. 
+<img width="686" height="758" alt="image" src="https://github.com/user-attachments/assets/ac52a1f8-3640-4abd-a151-dc3ce19c7c5d" />
 
-<img width="1346" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fc06cd5-a159-416c-876e-3ee2ed176066" />
 
 ## Next Steps
 1. Meet with marketing strategy team to present results of the study.
