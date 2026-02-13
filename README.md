@@ -25,8 +25,6 @@ After identifying the most purchased causes and the campaigns that drove them, I
 
 The donation data is currently captured at the transaction level, which can include 1 or multiple donations within each transaction.  To measure the performance of each donation type, frequency (eg. Monthly, once etc) and targeted cause (eg. supplies or circumstance) I split out the causes and corresponding types, amounts and frequencies.
 
-<img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/47471b56-5144-4192-a848-16607dc86823" />
-
 Before:
 
  <img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/7f24e6d6-4445-41fb-b76b-dbc767dab861" />
