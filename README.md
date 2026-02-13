@@ -56,11 +56,9 @@ Tableau: data visualization, data exploration, custom parameters, calculated fie
 ## Results and Recommendations
 Being able to split Transactions down into individual donations we are able to see the top performing product and campaign data.
 
-Based on the split data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Activists campaign was most effective by value for driving supply donations (Bowls, Cleaning, Grooming, Food and Toys).
+Based on the split donation data, we can confirm that the FY25_Q3_Traffic_Display_TOF_Activists campaign was most effective by value for driving supply donations (Bowls, Cleaning, Grooming, Food and Toys).
 
 <img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/043ccd32-058e-4f3f-8d8f-2706e34107c5" />
-
- <img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/15dc1d91-e725-490e-a79c-422b4ec600cc" />
 
 We can also see that Rosie's Litter drew the most most individual donations (45). This could indicate superior creative or marketing messaging and features, good website placement presence, better or different photography, something out of marketing control such as breed or visual appeal.
 
